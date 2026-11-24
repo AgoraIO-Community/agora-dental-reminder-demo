@@ -4,6 +4,8 @@
 
 Hear a fictional Boston dental appointment reminder and discuss attendance, cancellation or rescheduling intentions without changing clinic records.
 
+**[Try the live demo →](https://agora-dental-reminder-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)

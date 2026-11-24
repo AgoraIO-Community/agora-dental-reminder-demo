@@ -6,6 +6,8 @@
 
 听取虚构的 Boston 牙科预约提醒，表达出席、取消或改期意向；不会更新诊所记录。
 
+**[在线试用 →](https://agora-dental-reminder-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -23,6 +25,8 @@
 - 表达会出席、不出席、未决定或想取消、改期。
 - 询问到访准备；医疗相关要求需由真实诊所说明。
 - 核对口头摘要，不保存、发送或更新预约。
+
+<a id="tech-stack"></a>
 
 ## 技术栈
 

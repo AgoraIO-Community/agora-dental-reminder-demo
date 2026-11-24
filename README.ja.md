@@ -6,6 +6,8 @@
 
 架空の Boston の歯科予約案内を聞き、来院・キャンセル・変更の希望を伝えます。診療所の記録は更新しません。
 
+**[オンラインデモを試す →](https://agora-dental-reminder-demo.vercel.app/)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -23,6 +25,8 @@
 - 来院する・しない・未定・変更や取消の希望を伝えます。
 - 一般的な来院案内を確認します。医療上の準備は実際の診療所に確認してください。
 - 口頭のまとめだけで、予約更新・通知・保存は行いません。
+
+<a id="tech-stack"></a>
 
 ## 技術構成
 
